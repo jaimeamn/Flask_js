@@ -4,3 +4,7 @@ table.movimientos {
     overflow-y: auto;
     
 }
+
+.inactive {
+    display: none;
+}
